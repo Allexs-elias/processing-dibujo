@@ -1,7 +1,9 @@
 models\Caja.class
+nuevopoo\Main.class
 models\Borde.class
 models\Circulo.class
 com\mycompany\mavenproject1\Mavenproject1.class
+models\Figura.class
 nuevopoo\config.class
 models\Dimension.class
 models\Posicion.class
